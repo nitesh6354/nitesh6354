@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open source Projects**
 
-- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript,Database(Mysql)**
 
 - 📫 How to reach me **patilnitesh1312@gmail.com**
 
