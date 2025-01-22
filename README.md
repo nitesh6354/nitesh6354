@@ -6,15 +6,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🚀 Passionate Software Engineer | Python & Django Specialist | Full-Stack Developer
 
 I am a results-driven Software Engineer with a strong foundation in Python, Django, HTML, CSS, JavaScript, and MySQL. With hands-on experience in full-stack web development, I have built and optimized scalable applications that deliver seamless user experiences.
 
 🔹 Technical Expertise:
 ✔ Python | Django | JAVA | FastAPI
+
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap
+
 ✔ Database: MySQL | MongoDB
+
 ✔ Version Control: Git | GitHub
+
 ✔ Deployment: AWS | Heroku | Docker
 
 🎯 What I Bring:
