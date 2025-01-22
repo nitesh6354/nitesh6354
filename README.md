@@ -10,7 +10,7 @@
 I am a results-driven Software Engineer with a strong foundation in Python, Django, HTML, CSS, JavaScript, and MySQL. With hands-on experience in full-stack web development, I have built and optimized scalable applications that deliver seamless user experiences.
 
 🔹 Technical Expertise:
-✔ Python | Django | JAVA | FastAPI
+✔ Python | Django | JAVA |Data Structures FastAPI
 
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap
 
