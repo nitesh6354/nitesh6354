@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nitesh Patil</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavii2810&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavii2810" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh6354&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh6354" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
