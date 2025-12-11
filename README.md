@@ -10,6 +10,7 @@
   <a href="mailto:patilnitesh2303@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
+
   &nbsp;&nbsp;
   <a href="https://github.com/NiteshPatil" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="30" />
