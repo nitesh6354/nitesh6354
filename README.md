@@ -130,12 +130,3 @@ If you like my work, consider ⭐ starring my repositories!
 <br><br>
 
 <!-- Bottom Gmail Icons -->
-<p align="center">
-  <a href="mailto:patilnitesh2303@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:patilnitesh2303@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
-  </a>
-</p>
