@@ -3,7 +3,6 @@
 
 <!-- Contact Icons at Top -->
 <p align="center">
-  
   &nbsp;&nbsp;
   <a href="mailto:patilnitesh2303@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
