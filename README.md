@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nitesh Patil</h1>
 <h3 align="center">Full-Stack Developer | .NET Core | Angular | SQL | AI & ML Enthusiast</h3>
 
+<!-- Contact Icons at Top -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:patilnitesh2303@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/NiteshPatil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NiteshPatil&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -95,7 +110,7 @@ I build high-performance, scalable, secure applications with clean architecture 
 <a href="https://www.linkedin.com/in/YOUR-LINK" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:patilnitesh2303@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
 </a>
 </p>
@@ -110,4 +125,16 @@ I build high-performance, scalable, secure applications with clean architecture 
 ---
 
 ## ⭐ “Code. Improve. Repeat.”  
-If you like my work, consider ⭐ starring my repositories!
+If you like my work, consider ⭐ starring my repositories!  
+<br><br>
+
+<!-- Bottom Gmail Icons -->
+<p align="center">
+  <a href="mailto:patilnitesh2303@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:patilnitesh2303@gmail.com">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+</p>
