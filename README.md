@@ -104,13 +104,13 @@ I build high-performance, scalable, secure applications with clean architecture 
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="blank">
+<a href="https://www.linkedin.com/in/nitesh-patil1312/" target="blank">
   <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
 </a>
 <a href="mailto:patilnitesh2303@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
 </a>
-<a href="https://github.com/NiteshPatil" ">
+<a href="https://github.com/nitesh6354" ">
     <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 </p>
