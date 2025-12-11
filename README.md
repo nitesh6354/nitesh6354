@@ -3,9 +3,7 @@
 
 <!-- Contact Icons at Top -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
-  </a>
+  
   &nbsp;&nbsp;
   <a href="mailto:patilnitesh2303@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
