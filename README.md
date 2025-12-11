@@ -11,6 +11,7 @@ I am a results-driven Software Engineer with a strong foundation in Python, Djan
 
 🔹 Technical Expertise:
 ✔ .NET | .NET CORE | ASP.NET | ANGULER | Data Structures FastAPI
+
 ✔ Python | Django | JAVA |Data Structures FastAPI
 
 ✔ Frontend: HTML | CSS | JavaScript | Bootstrap
