@@ -11,10 +11,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="30" />
   </a>
 
-  &nbsp;&nbsp;
-  <a href="https://github.com/NiteshPatil" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="30" />
-  </a>
 </p>
 
 <p align="center">
@@ -114,6 +110,11 @@ I build high-performance, scalable, secure applications with clean architecture 
 <a href="mailto:patilnitesh2303@gmail.com">
   <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
 </a>
+  
+  &nbsp;&nbsp;
+  <a href="https://github.com/NiteshPatil" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="30" />
+  </a>
 </p>
 
 ---
