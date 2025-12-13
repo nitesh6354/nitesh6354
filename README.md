@@ -40,6 +40,12 @@ I build high-performance, scalable, secure applications with clean architecture 
 - Git, GitHub, VS Code, Postman
 
 ---
+## 🧰 Skills 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap,python,mysql,git,github,vscode" />
+</p>
+
+---
 
 ## 🔥 Featured Projects
 
@@ -113,14 +119,6 @@ I build high-performance, scalable, secure applications with clean architecture 
 </p>
 
 ---
-
-## 🧰 Skills Icons
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,angular,js,html,css,bootstrap,python,mysql,git,github,vscode" />
-</p>
-
----
-
 ## ⭐ “Code. Improve. Repeat.”  
 If you like my work, consider ⭐ starring my repositories!  
 <br><br>
