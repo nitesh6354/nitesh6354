@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nitesh Patil</h1>
-<h3 align="center">Full-Stack Developer | .NET Core | Angular | SQL | AI & ML Enthusiast</h3>
+<h3 align="center">  Software Engineer | .NET Core | Angular | SQL | AI & ML Enthusiast</h3>
 
 <!-- Contact Icons at Top -->
 <p align="center">
